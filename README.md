@@ -1,3 +1,22 @@
+# Bookify
+
+**Bookify** is a full-stack book listing and purchasing web application where users can register or log in, browse books, place orders, and even add their own book listings.
+
+## Features
+
+-  User authentication (Register/Login)
+-  Browse and purchase books
+-  Add your own books to the platform
+-  Order placement functionality
+-  Google Sign-In supported
+-  Firebase backend (Authentication + Firestore)
+
+##  Tech Stack
+
+- **Frontend**: React.js, Bootstrap
+- **Backend/Database**: Firebase (Auth + Firestore)
+- **Version Control**: Git & GitHub
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
