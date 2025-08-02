@@ -23,7 +23,7 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 const FirebaseContext = createContext(null);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBGIVGEOArN7NxfmYSrlTV9sSR7KByC_xw",
+  apiKey: "DUMMY_KEY",
   authDomain: "bookify-53ff2.firebaseapp.com",
   projectId: "bookify-53ff2",
   storageBucket: "bookify-53ff2.firebasestorage.app",
